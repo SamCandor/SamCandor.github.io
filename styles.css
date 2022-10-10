@@ -1,15 +1,16 @@
 body {
-    background:lightgreen;
+    background:lightskyblue;
     font-family:Arial, Helvetica, sans-serif;
 } 
 
-.assignment {
+.assign {
     display:flex;
     padding:10px;
-    background: lightgoldenrodyellow
+    margin: 10px;
+    background: lavenderblush;
 }
 
-.assignment img {
+.assign img {
     width:200px;
     Padding: 10px;
 
